@@ -475,7 +475,7 @@ If you find it useful and would like to support its development, optional donati
 - ☕ **Ko-fi**  
   https://ko-fi.com/Noah_mustafa_stuff
 
-### 🇪🇬 Local (Egypt only)
+### 🇪🇬 Bank Transfer (Worldwide)
 
 - 🏦 **InstaPay**  
   https://ipn.eg/S/noahmustafa8/instapay/6RJe2t
@@ -537,5 +537,6 @@ Built with modern technology for maximum performance and reliability.
 Made with ❤️ for fast downloads
 
 </div>
+
 
 
