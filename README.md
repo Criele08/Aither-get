@@ -12,7 +12,7 @@
 
 **[Download Latest Release](https://github.com/NoahMustafa/aither-get/releases/latest)** • **[Documentation](#-quick-start)** • **[Report Bug](https://github.com/NoahMustafa/aither-get/issues)**
 
-![Demo](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Aither-get+Download+Manager+Demo)
+[![Aither-get Technical Demo](https://img.shields.io/badge/Watch-Demo_Video-blue?style=for-the-badge)](https://youtu.be/M4qYumZ4hpQ)
 
 </div>
 
@@ -519,3 +519,4 @@ Built with modern technology for maximum performance and reliability.
 Made with ❤️ for fast downloads
 
 </div>
+
